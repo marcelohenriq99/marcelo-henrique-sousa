@@ -16,7 +16,7 @@
 
 <!-- <a href="https://twitter.com/abuanwar072" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abuanwar072" height="22" width="22" /></a> -->
 <a href="https://linkedin.com/in/marcelohenrique" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="my linkedin" height="22" width="22" /></a>
-<a href="https://www.instagram.com/marc3lo_h" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="my insta" height="22" width="22" /></a>
+<a href="https://www.instagram.com/h_marc3lo/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="my insta" height="22" width="22" /></a>
 
 
 <br />
