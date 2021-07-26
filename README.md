@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate with **other content creators**
 
-- ⚡ Fun fact **I love programer jokes and meme videos.**
+- ⚡ Fun fact: **I love programer jokes and meme videos.**
 
 ### Connect with me:
 
